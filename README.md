@@ -17,7 +17,7 @@ OPtimizing prompts for standard LLMs;
 7. Well  formated
 
 ```
- #TASK
+#TASK
 You are a risk management consultant for CloudSecure, a 200-employee cybersecurity software company (HQ: Austin, Texas) evaluating expansion into the UK and Germany markets within 18 months.
 
 # RISK ANALYSIS GOALS
@@ -56,3 +56,8 @@ Avoid generic international expansion risks. Focus specifically on cybersecurity
 
 for resumes creating you can use : https://www.genspark.ai/ 
 for design prompts : https://app.superdesign.dev/library?category=landing-pages&selected=warm-industrial-gray-style
+
+
+Tools : 
+
+- [Ponytail](https://github.com/DietrichGebert/ponytail) : cut tokens and write minimal code
