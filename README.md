@@ -64,3 +64,5 @@ Tools :
 - UI-UX skills : https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 - launch-your-agent https://github.com/anthropics/launch-your-agent
 - [web designs skills](https://getdesign.md/): it have lot of web ui skills ex. Claude, BMW, apple etc.
+- apple free model - https://apfel.franzai.com/
+- any cloud on your local = https://github.com/floci-io
