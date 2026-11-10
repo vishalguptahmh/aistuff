@@ -68,6 +68,8 @@ Tools :
 - any cloud on your local = https://github.com/floci-io
 - design vocabulary for your coding agent https://github.com/pbakaus/impeccable
 - tutor for you : https://eduhub.deeptutor.info/skills?lang=en
+- SEO website from claude : https://github.com/AgricIDaniel/claude-seo
+
 
 
 
