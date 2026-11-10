@@ -71,4 +71,4 @@ Tools :
 
 
 
-### [Make your second brain](SecondBrain.md)
+### [Make your second brain](https://github.com/vishalguptahmh/aistuff/blob/master/Second%20Brain.md)
